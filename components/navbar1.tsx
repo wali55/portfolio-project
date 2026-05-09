@@ -97,10 +97,10 @@ const Navbar1 = ({
   className,
 }: Navbar1Props) => {
   return (
-    <section className={cn("py-4 bg-[#FFFAF0] h-auto", className)}>
-      <div className="container mx-auto">
+    <section className={cn("py-4 bg-[#FFFAF0] h-auto fixed top-0 left-0 right-0", className)}>
+      <div className="max-w-6xl mx-auto">
         {/* Desktop Menu */}
-        <nav className="hidden items-center justify-center lg:flex">
+        <nav className="hidden items-center lg:flex">
           <div className="flex items-center gap-6">
             {/* Logo */}
             <a href={logo.url} className="flex items-center gap-2">
