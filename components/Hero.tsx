@@ -28,7 +28,6 @@ const Hero = () => {
         </div>
       </div>
       <div className="w-full md:w-1/2">
-        {/* A clearly visible button in the hero section that allows visitors to view and download your resume with a single click */}
         <div className="mt-10 flex h-full w-full flex-col items-center justify-center md:mt-0">
           <div>
             <Button
@@ -48,22 +47,22 @@ const Hero = () => {
           </div>
           <div className="flex gap-3 mt-4">
             <Link target="_blank" href="https://github.com/wali55" className="cursor-pointer">
-              <Image src="/github.png" alt="github" width={50} height={50} />
+              <Image src="/github.png" alt="github" width={30} height={30} />
             </Link>
             <Link target="_blank" href="https://www.linkedin.com/in/wali55/" className="cursor-pointer">
               <Image
                 src="/linkedin.png"
                 alt="linkedin"
-                width={50}
-                height={50}
+                width={30}
+                height={30}
               />
             </Link>
             <Link target="_blank" href="https://www.facebook.com/wali.ullah.3154284" className="cursor-pointer">
               <Image
                 src="/facebook.png"
                 alt="facebook"
-                width={50}
-                height={50}
+                width={30}
+                height={30}
               />
             </Link>
           </div>

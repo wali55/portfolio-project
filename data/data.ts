@@ -9,7 +9,8 @@ export const projects = [
         live: "https://food-hub-frontend-gamma.vercel.app/",
         github: "https://github.com/wali55/food-hub-frontend",
         challenges: "First I tried to use better auth for authentication for this application. But My user table is linked to other tables and I had difficulty implemented better auth. Then I used custom auth for this application.",
-        improvements: "When creating a meal I want to give a feature, so that provider can add image of the food. I want to use cloudinary to store those images."
+        improvements: "When creating a meal I want to give a feature, so that provider can add image of the food. I want to use cloudinary to store those images.",
+        credentials: "Admin Email: admin@gmail.com, Admin Password: 123456, Provider Email: sakib@gmail.com, Provider Password: 123456, Customer Email: wali@gmail.com, Customer Password: 123456"
     },
     {
         id: 2,
@@ -21,7 +22,8 @@ export const projects = [
         live: "https://task5-frontend-tau.vercel.app/",
         github: "https://github.com/wali55/task5-frontend",
         challenges: "Implementation of dynamic custom fields was very challenging for me.",
-        improvements: "Want to add discussion and comment section where people can give their opinion about inventory items."
+        improvements: "Want to add discussion and comment section where people can give their opinion about inventory items.",
+        credentials: "Email: wali@gmail.com, Password: #Aa123456"
     },
     {
         id: 3,
@@ -33,6 +35,7 @@ export const projects = [
         live: "https://task6-frontend.vercel.app/",
         github: "https://github.com/wali55/task6-frontend",
         challenges: "Implementation of real time add text, edit text, delete text, drag-and-drop text was very challenging for me.",
-        improvements: "Want to add more features apart form text. Like adding images."
+        improvements: "Want to add more features apart form text. Like adding images.",
+        credentials: "Nickname: wali, Nickname: hasib"
     }
 ]

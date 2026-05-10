@@ -81,6 +81,12 @@ const ProjectDetails = () => {
               {project.improvements}
             </p>
           </CardContent>
+          <CardContent>
+            <p>
+              <span className="font-semibold">Credentials:</span>{" "}
+              {project.credentials}
+            </p>
+          </CardContent>
         </Card>
       )}
     </div>
