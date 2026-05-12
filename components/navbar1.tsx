@@ -95,7 +95,7 @@ const Navbar1 = ({
   className,
 }: Navbar1Props) => {
   return (
-    <section className={cn("py-4 bg-[#FFFAF0] h-auto fixed top-0 left-0 right-0", className)}>
+    <section className={cn("py-4 bg-[#FFFAF0] h-auto fixed top-0 left-0 right-0 z-50", className)}>
       <div className="max-w-6xl mx-auto">
         {/* Desktop Menu */}
         <nav className="hidden items-center lg:flex">
