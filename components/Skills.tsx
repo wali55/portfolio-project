@@ -6,6 +6,51 @@ const Skills = () => {
       <h1 className="text-center text-4xl font-bold text-neutral-900">
         Skills
       </h1>
+
+<h2 className="mt-10 text-xl font-semibold">Quality Assurance</h2>
+<div className="mt-10 flex w-full items-center gap-10 flex-wrap">
+        <div className="flex flex-col items-center">
+
+          <h3 className="mt-2 font-medium">Manual Testing</h3>
+        </div>
+        <div className="flex flex-col items-center">
+
+          <h3 className="mt-2 font-medium">Test Case Design</h3>
+        </div>
+        <div className="flex flex-col items-center">
+
+          <h3 className="mt-2 font-medium">Test Execution</h3>
+        </div>
+        <div className="flex flex-col items-center">
+
+          <h3 className="mt-2 font-medium">Regression Testing</h3>
+        </div>
+        <div className="flex flex-col items-center">
+
+          <h3 className="mt-2 font-medium">Smoke Testing</h3>
+        </div>
+        <div className="flex flex-col items-center">
+
+          <h3 className="mt-2 font-medium">Sanity Testing</h3>
+        </div>
+      </div>
+
+      <h2 className="mt-10 text-xl font-semibold">Automation Testing</h2>
+<div className="mt-10 flex w-full items-center gap-10 flex-wrap">
+        <div className="flex flex-col items-center">
+
+          <h3 className="mt-2 font-medium">Playwright</h3>
+        </div>
+        <div className="flex flex-col items-center">
+
+          <h3 className="mt-2 font-medium">Basic Test Automation</h3>
+        </div>
+        <div className="flex flex-col items-center">
+
+          <h3 className="mt-2 font-medium">End-toEnd Testing</h3>
+        </div>
+      </div>
+
       <h2 className="mt-10 text-xl font-semibold">Frontend</h2>
       <div className="mt-10 flex w-full items-center gap-10 flex-wrap">
         <div className="flex flex-col items-center">

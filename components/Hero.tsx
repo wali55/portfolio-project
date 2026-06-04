@@ -22,7 +22,7 @@ const Hero = () => {
               Mohammad Waliullah
             </h2>
             <h3 className="text-xl font-medium text-neutral-500">
-              Full Stack Developer
+              SQA Engineer
             </h3>
           </div>
         </div>

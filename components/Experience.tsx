@@ -20,11 +20,28 @@ const Experience = () => {
             <Briefcase />
           </ItemMedia>
           <ItemContent>
-            <ItemTitle>Software Developer</ItemTitle>
+            <ItemTitle>SQA Engineer</ItemTitle>
             <ItemDescription>Cashless Ai (Jan 2026 - Present)</ItemDescription>
             <ItemDescription>
-              I am working as Junior software developer in Cashless Ai. Woking
-              with technologies like Nextjs, Typescript, Redux toolkit etc.
+              Perform manual testing of Staff Management, POS, Event Management, and Multi-Tenant systems. Develop automated end-to-end test scripts using Playwright to improve testing efficiency and regression coverage.
+
+            </ItemDescription>
+          </ItemContent>
+        </Item>
+
+        <Item variant="outline" className="bg-white">
+          <ItemMedia variant="icon">
+            <Briefcase />
+          </ItemMedia>
+          <ItemContent>
+            <ItemTitle>SQA Engineer</ItemTitle>
+            <ItemDescription>
+              Bytebridge IT Solutions LLC (Dec 2023 - May 2025)
+            </ItemDescription>
+            <ItemDescription>
+              Testing different kinds of apps of these companies both web and
+              mobile version. These are investment app, e-commerce app,
+              accounting app, employee management app etc.
             </ItemDescription>
           </ItemContent>
         </Item>
@@ -43,23 +60,6 @@ const Experience = () => {
               Expressions (RegExp), and SQL. Developed and submitted multiple
               full-stack web applications, including: Inventory Management
               System, Collaborative Presentation Software etc.
-            </ItemDescription>
-          </ItemContent>
-        </Item>
-
-        <Item variant="outline" className="bg-white">
-          <ItemMedia variant="icon">
-            <Briefcase />
-          </ItemMedia>
-          <ItemContent>
-            <ItemTitle>SQA Engineer</ItemTitle>
-            <ItemDescription>
-              Bytebridge IT Solutions LLC (Dec 2023 - May 2025)
-            </ItemDescription>
-            <ItemDescription>
-              Testing different kinds of apps of these companies both web and
-              mobile version. These are investment app, e-commerce app,
-              accounting app, employee management app etc.
             </ItemDescription>
           </ItemContent>
         </Item>
