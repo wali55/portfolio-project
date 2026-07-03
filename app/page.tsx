@@ -5,7 +5,6 @@ import Experience from "@/components/Experience"
 import Footer from "@/components/Footer"
 import Hero from "@/components/Hero"
 import { Navbar1 } from "@/components/navbar1"
-import Projects from "@/components/Projects"
 import Skills from "@/components/Skills"
 
 export default function Page() {
@@ -15,7 +14,6 @@ export default function Page() {
       <Hero />
       <About />
       <Skills />
-      <Projects />
       <Experience />
       <Education  />
       <Contact />

@@ -72,10 +72,6 @@ const Navbar1 = ({
       url: "#skills",
     },
     {
-      title: "Projects",
-      url: "#projects",
-    },
-    {
       title: "Experience",
       url: "#experience",
     },
